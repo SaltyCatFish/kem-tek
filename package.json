@@ -29,7 +29,7 @@
     "url": "https://github.com/SaltyCatFish/kem-tek"
   },
   "dependencies": {
-    "bootstrap": "4.5.0",
+    "bootstrap": "4.6.0",
     "jquery": "3.5.1"
   },
   "devDependencies": {
